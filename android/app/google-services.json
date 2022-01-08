@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "141784842646",
+    "project_id": "miaged-app",
+    "storage_bucket": "miaged-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141784842646:android:ed6f28cb446aee71875db7",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141784842646-pv9am8ejdl0u7g7sk2abljc9km7nlfd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0TmhbOmMQ6C4VjrPKsl2b1zvSop6hodc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141784842646-pv9am8ejdl0u7g7sk2abljc9km7nlfd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "141784842646-3fie146h0r6s6hqo36ajn9eo09uq0266.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
